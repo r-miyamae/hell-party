@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="list_random_image">
+        <item>@raw/partyparrot</item>
+        <item>@raw/thumbsupparrot</item>
+        <!--<item>@raw/ic_003</item>-->
+        <!--<item>@raw/ic_004</item>-->
+        <!--<item>@raw/ic_005</item>-->
+        <!--<item>@raw/ic_006</item>-->
+        <!--<item>@raw/ic_007</item>-->
+        <!--<item>@raw/ic_008</item>-->
+        <!--<item>@raw/ic_009</item>-->
+    </array>
+</resources>
